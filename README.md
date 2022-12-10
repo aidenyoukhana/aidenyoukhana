@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aidenyoukhana
-- 👀 I’m interested in Applied mathematics and Software Engineering.
-- 🌱 I’m currently learning React.JS
-- 💞️ I’m looking to collaborate on Java, React.JS, and React Native.
-- 📫 How to reach me aayoukha@asu.edu
+- 👋 Hi, my name is Aiden Youkhana.
+- 👀 I’m a software developer for Neudesic, an IBM Company.
+- 🌱 I’m currently learning Flutter and Dart.
+- 💞️ I’m looking to collaborate on Swift, SwiftUI, and Flutter
 
 <!---
 aidenyoukhana/aidenyoukhana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
