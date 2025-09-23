@@ -1,4 +1,4 @@
-# 💼 Aiden Youkhana – Resume
+# Aiden Youkhana
 
 ## 📬 Contact
 - **Email:** Berg.Shading.7t@iCloud.com  
