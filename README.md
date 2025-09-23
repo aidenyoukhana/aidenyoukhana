@@ -43,7 +43,6 @@ Analyzed reports to identify trends, retention strategies, and ensure accurate d
 - **Fitness Industry** *(Feb. 2022 – Mar. 2023)* – Resolved logical, UI, and API bugs for iOS and Android platforms  
 - **Healthcare** *(Nov. 2021 – Feb. 2022)* – API performance testing with JMeter and Azure Load Test Preview  
 
----
 
 ## 📚 Publications
 - Aiden Youkhana, Giovanni Artiglio, Joel Nishimura.
