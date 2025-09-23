@@ -5,13 +5,11 @@
 - **LinkedIn:** [linkedin.com/in/ay98xy](https://www.linkedin.com/in/ay98xy)
 - **Github:** https://github.com/aidenyoukhana
 
----
 
 ## 🎯 Objective
 Passionate, disciplined, and innovative consultant with integrity and teamwork skills.  
 Seeking opportunities to advance in **app development** (iOS, Android, web, and cross-platform).
 
----
 
 ## 🛠 Technology Stack
 - **Cloud:** GitHub, Azure, Azure DevOps  
@@ -20,13 +18,11 @@ Seeking opportunities to advance in **app development** (iOS, Android, web, and 
 - **Web:** React, Angular, Flutter, FlutterFlow  
 - **QA:** DevOps, Katalon Studio, SmartBear, TestComplete, Appium, Selenium, Python  
 
----
 
 ## 🎓 Education
 - **B.S. Applied Mathematics** – Arizona State University, 2021  
 - **A.S. Science** – Glendale Community College, 2019  
 
----
 
 ## 💼 Experience
 **Neudesic, an IBM Company** – Consultant *(Nov. 2021 – Present)*  
@@ -38,7 +34,6 @@ Full-Stack development for clients across multiple regions
 **Costco Wholesale** – Membership Marketing Analyst *(Nov. 2017 – Dec. 2021)*  
 Analyzed reports to identify trends, retention strategies, and ensure accurate data handling  
 
----
 
 ## 🚀 Projects at Neudesic
 - **Nuclear Energy Industry** *(Dec. 2024 – current)* – ASP.NET Core Blazor MudBlazor web app with API endpoints; IIS deployment  
